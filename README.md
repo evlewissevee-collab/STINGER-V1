@@ -1,4 +1,5 @@
 npm install### STINGER-V1 BUG BOT 
+package.json 
 "scripts": {
   "start": "node index.js"
 }
