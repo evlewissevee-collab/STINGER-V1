@@ -1,5 +1,7 @@
 npm install### STINGER-V1 BUG BOT 
-   
+"scripts": {
+  "start": "node index.js"
+}   
 <p align="center">
 <img src="https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg"/> 
 <p align="center">
